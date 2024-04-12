@@ -5,6 +5,8 @@ import openai
 import sys
 
 
+
+
 class Reference:
     '''
     A class to store previously response from the chatGPT API
