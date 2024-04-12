@@ -1,5 +1,6 @@
 # TeleBot_GPT
 
+## main version of aiogram for python is <<3.7>> aiogram version
 
 ## Prerequisites :
 - python 3.7
